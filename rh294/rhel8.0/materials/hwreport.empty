@@ -1,5 +1,0 @@
-INVENTORY_HOSTNAME = inventory_hostname
-BIOS_VERSION = bios_version
-TOTAL_MEMORY = total_memtotal_mb
-VDA_SIZE = vda_size
-VDB_SIZE = vdb_size
